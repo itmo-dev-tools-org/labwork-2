@@ -1,0 +1,6 @@
+
+o----------o  main
+ \        /
+  o ---- o develop
+          \
+           o ---- o feature-1
