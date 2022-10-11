@@ -1,0 +1,5 @@
+o--------------o-------- main		
+ \		  / \
+  \          /   o hotfix
+   \	      /  
+    o ---- o develop
