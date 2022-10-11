@@ -1,0 +1,3 @@
+[submodule "labwork2-submodule"]
+	path = labwork2-submodule
+	url = https://github.com/itmo-dev-tools-org/labwork2-submodule
