@@ -1,7 +1,7 @@
-o--------------o---o main		
- \	        / \ /
-  \          /   o hotfix
-   \	      /   	\
-    o ---- o-------o develop
-			  \
-			   o feature2
+o--------------o--------o main		
+ \	      / \      /
+  \          /   o -- o  hotfix
+   \	    /          \
+    o ---- o------------o develop
+	                 \
+                          o---o feature2
