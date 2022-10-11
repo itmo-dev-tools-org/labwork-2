@@ -31,6 +31,9 @@ o--------------o--------o-------------------------------o----o----o main
 14. git merge <merged-branch-name>
 15. git tag -a <tag-name> <hash-commit> -m "<commit-tag>"
 16. git submodule add <url-repository>
+17. git lfs install
+18. git lfs track "*.txt"
+
 ```
 
 # История
@@ -160,7 +163,7 @@ o--------------o--------o-------------------------------o----o main
              \            o---o feature2   /
               o ------------------------- o  feature-1
 ```
-## Add tags, Submodules
+## Add tags, Submodules, LFS
 ```
 
               v0.0     v1.0                           v2.0  v2.1  v2.2
