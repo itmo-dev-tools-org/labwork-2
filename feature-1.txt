@@ -3,4 +3,4 @@ o----------o  main
  \        /
   o ---- o develop
           \
-           o feature-1
+           o ---- o feature-1
