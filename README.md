@@ -2,6 +2,7 @@
 
 Данный репозиторий выглядит так:
 ```
+              v0.0     v1.0                           v2.0  v2.1  v2.2
 o--------------o--------o-------------------------------o----o----o main          
  \            / \      /                               /
   \          /   o -- o  hotfix                       o release
@@ -10,6 +11,26 @@ o--------------o--------o-------------------------------o----o----o main
             \            \     /            /
              \            o---o feature2   /
               o ------------------------- o  feature-1
+```
+# Используемые команды
+```
+1. git clone <url>
+2. git status
+3. git add <file-name>
+4. git commit -m "<comment>"
+5. git log
+6. git push
+7. git branch <new-branch>
+8. git branch -a /-r
+9. git switch / checkout
+9. git pull
+10. git push 
+11. git tag -a <tag-name> <hash-commit> -m "<commit-tag>"
+12. git push origin --tags
+13. git tag -d <tag-name>
+14. git merge <merged-branch-name>
+15. git tag -a <tag-name> <hash-commit> -m "<commit-tag>"
+16. git submodule add <url-repository>
 ```
 
 # История
@@ -139,8 +160,10 @@ o--------------o--------o-------------------------------o----o main
              \            o---o feature2   /
               o ------------------------- o  feature-1
 ```
-## Edited
+## Add tags, Submodules
 ```
+
+              v0.0     v1.0                           v2.0  v2.1  v2.2
 o--------------o--------o-------------------------------o----o----o main          
  \            / \      /                               /
   \          /   o -- o  hotfix                       o release
